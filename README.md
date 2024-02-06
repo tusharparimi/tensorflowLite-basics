@@ -13,5 +13,5 @@ video- https://youtu.be/--MYQgj9y8g?si=lCXvwzVjkrb4gb2V
 video- https://youtu.be/S819McMI0NM?si=wrqgoZiVmTkX86nz
 
 ### Flow
-- The neural network models are trained in the jupyter notebook files(.ipynb) and saved as a tensorflow-Lite model.
+- The CNN neural network models are trained in the jupyter notebook files(.ipynb) and saved as a tensorflow-Lite model.
 - Those Lite model are then used in the real-time video capture .py scripts to classify flowers and handwritten digits in real-time.
